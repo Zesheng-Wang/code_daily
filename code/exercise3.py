@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-
-'''
-@Author  : Zesheng Wang
-@Time    : 2020/3/7 16:49
-@Software: PyCharm
-@File    : func_leap_year.py
-'''
-
-
 # 函数判断是否是闰年
 
 def is_leap(year):
