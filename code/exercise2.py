@@ -1,12 +1,6 @@
 # -*- coding: utf-8 -*-
 
 '''
-@Author  : Zesheng Wang
-@Time    : 2020/1/12 16:37
-@Software: PyCharm
-@File    : python_loops.py
-'''
-'''
 Read an integer N. 
 For all non-negative integers i < N, print i**2.
 '''
